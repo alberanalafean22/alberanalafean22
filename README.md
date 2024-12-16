@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alberanalafean)  
+
+## Languages and Tools:  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)  \
