@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+## Data Science Student at Sumatera Institute of Technology
 
 ## Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alberanalafean)  
