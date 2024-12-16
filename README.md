@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)  \
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
+![Pyspark](https://img.shields.io/badge/-PySpark-FDEE21?style=flat&logo=apache-spark&logoColor=black)
+![Qgis](https://img.shields.io/badge/-QGIS-589632?style=flat&logo=qgis&logoColor=white)
+
+
