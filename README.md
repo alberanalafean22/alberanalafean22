@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi, this is My Portofolio
 
-## My Profile
 ### I'm a Data Science Student at Sumatera Institute of Technology, Last Grade Student
 ### Spesific Skill: Big Data, Machine Learning & Deep Learning, Spatial Analysis and Modelling
 
