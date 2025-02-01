@@ -1,7 +1,7 @@
 ## Hi, this is My Portofolio
 
 ### I'm a Data Science Student at Sumatera Institute of Technology, Last Grade Student
-### Spesific Skill: Big Data, Machine Learning & Deep Learning, Spatial Analysis and Modelling
+### Spesific Skill: Big Data, Machine Learning & Deep Learning, Spatial Analysis and Modelling, GIS , Data Engineering, Cloud, Database
 
 ## Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alberanalafean) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/alberanalafean_)  
